@@ -3,6 +3,9 @@
 
     <string name="app_name">Spotify Practice</string>
     <string name="hello_world">Hello world!</string>
+    <string name="playlist_uri">Playlist URI</string>
+    <string name="alarm_volume_ramp_time">Volume Ramp Time:</string>
+    <string name="alarm_volume">Volume:</string>
     <string name="action_settings">Settings</string>
 
 </resources>
